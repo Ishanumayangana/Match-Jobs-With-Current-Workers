@@ -1,0 +1,6 @@
+﻿  Job Matching.cpp
+G:\3 semester\EE3302\project\tttt\DSAL Project New (1)\DSAL Project New (1)\Job Matching\Job Matching\LinkedList.h(129): warning C4715: 'linkedList::returnNode': not all control paths return a value
+G:\3 semester\EE3302\project\tttt\DSAL Project New (1)\DSAL Project New (1)\Job Matching\Job Matching\LinkedList.h(115): warning C4715: 'linkedList::searchBool': not all control paths return a value
+G:\3 semester\EE3302\project\tttt\DSAL Project New (1)\DSAL Project New (1)\Job Matching\Job Matching\Jobs.h(205): warning C4715: 'linkedListJobs::returnNode': not all control paths return a value
+G:\3 semester\EE3302\project\tttt\DSAL Project New (1)\DSAL Project New (1)\Job Matching\Job Matching\Jobs.h(191): warning C4715: 'linkedListJobs::searchBool': not all control paths return a value
+  Job Matching.vcxproj -> G:\3 semester\EE3302\project\tttt\DSAL Project New (1)\DSAL Project New (1)\Job Matching\x64\Debug\Job Matching.exe
